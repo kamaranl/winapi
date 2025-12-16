@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kamaranl/go_private/tools/test"
+	"github.com/kamaranl/gotools/test"
 	"github.com/kamaranl/winapi"
 )
 

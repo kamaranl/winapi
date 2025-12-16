@@ -1,7 +1,7 @@
 module github.com/kamaranl/winapi
 
-go 1.25.3
+go 1.24.0
 
-require golang.org/x/sys v0.36.0
+require golang.org/x/sys v0.38.0
 
-require github.com/kamaranl/go_private v0.0.0-20251107203659-58218ddc72d7
+require github.com/kamaranl/gotools v0.0.0-20251216151812-d597b0647b9a
